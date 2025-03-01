@@ -513,7 +513,7 @@ footer .social-icons a:hover {
 }
 
 .menu-btn {
-    display: none;
+    display: flex;
     cursor: pointer;
 }
 
