@@ -127,22 +127,13 @@ window.addEventListener("scroll", () => {
         }
     });
 });
-// document.addEventListener("DOMContentLoaded", function () {
-//     const skillsContainer = document.querySelector(".skills-container");
-//     const skillsBox = document.querySelector(".skills-box");
 
-//     // Duplicate the skills-box for infinite scrolling effect
-//     let clone = skillsBox.cloneNode(true);
-//     skillsContainer.appendChild(clone);
-// });
+
+
+
 $(document).ready(function () {
     $('.menu-btn').click(function () {
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("fa-times"); // Change icon (bars to cross)
     });
 });
-
-
-
-
-
