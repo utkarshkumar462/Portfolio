@@ -489,6 +489,9 @@ footer .social-icons a:hover {
 .call-btn i, .whatsapp-btn i {
     margin-right: 10px;
 }
+
+
+
 .navbar .menu {
     display: none;
     position: absolute;
@@ -540,4 +543,3 @@ footer .social-icons a:hover {
         display: flex;
     }
 }
-
